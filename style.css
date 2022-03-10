@@ -1,0 +1,25 @@
+.container {
+  background-color: #caa06a;
+  border: 5px solid #273c2c;
+  font-family: Fredoka, sans-serif;
+  font-weight: 300;
+  color: #fff;
+  border-radius: 10px;
+
+  text-align: center;
+  width: 500px;
+}
+
+.title {
+  color: #fff;
+  font-weight: 500;
+}
+
+.subtitle {
+  font-weight: 300;
+}
+
+#pesoConvertido {
+  font-size: 400;
+  color: #258ea6;
+}
